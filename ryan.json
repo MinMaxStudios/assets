@@ -1,5 +1,5 @@
 {
-  "day": 43,
+  "day": 44,
   "highlightedStates": [
     ["Texas", "orange"],
     ["New Mexico", "green"],
@@ -43,6 +43,7 @@
     ["Iowa", "brown"],
     ["North Dakota", "pink"],
     ["South Dakota", "blue"],
-    ["Wyoming", "brown"]
+    ["Wyoming", "brown"],
+    ["Montana", "yellow"]
   ]
 }
